@@ -1,11 +1,11 @@
 # Image-Viewer
 A Tkinter Based Image viewer
 
-## Requirements.txt
+## 1. Requirements.txt
 ```
 pip3 install -r requirements.txt   
 ```
-## Run
+## 2. Run
 ```
 python3 ImageViewer.py
 ```
