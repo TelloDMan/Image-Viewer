@@ -9,3 +9,19 @@ pip3 install -r requirements.txt
 ```
 python3 ImageViewer.py
 ```
+
+<details><summary>After starting Image-Viewer.exe</summary>
+<p>
+
+#### Procedure:
+
+```
+   1. Right click on "click" button at the top the screen.
+  
+   2. A dialog box will appear. Select the images you want to preview.
+  
+   3. Now you can switch between images using the arrow signs.
+```
+
+</p>
+</details>
