@@ -25,3 +25,11 @@ python3 ImageViewer.py
 
 </p>
 </details>
+
+# To Do List
+1. Allow users select images they desire and place them in a new folder
+2. Make the code more reliable
+3. Solve issues importing large number of images 
+
+
+
