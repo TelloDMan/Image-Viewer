@@ -5,3 +5,7 @@ A Tkinter Based Image viewer
 ```
 pip3 install -r requirements.txt   
 ```
+##Run
+```
+python3 ImageViewer.py
+```
